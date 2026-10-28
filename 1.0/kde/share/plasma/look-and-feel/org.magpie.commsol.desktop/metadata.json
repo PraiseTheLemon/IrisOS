@@ -1,0 +1,30 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "phobian@tutanota.com",
+                "Name": "Mark Whittaker"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "Riffing on Solaris CDE",
+        "EnabledByDefault": true,
+        "Id": "org.magpie.commsol.desktop",
+        "License": "GPL 2+",
+        "Name": "Commonality Sol",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "3.1",
+        "Website": "https://www.pling.com/u/phob1an/"
+    },
+    "X-KPackage-Dependencies": [
+    "kns://aurorae.knsrc/api.kde-look.org/2136529",
+    "kns://colorschemes.knsrc/api.kde-look.org/2111456",
+    "kns://plasma-themes.knsrc/api.kde-look.org/2111450",
+    "kns://wallpaper.knsrc/api.kde-look.org/2111455",
+    "kns://sddmtheme.knsrc/api.kde-look.org/2181250",
+    "kns://icons.knsrc/api.kde-look.org/2346407"
+    ]
+}
